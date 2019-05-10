@@ -31,10 +31,7 @@ html, body{
     z-index: 2;
 }
 
-@media screen and (orientation:landscape) {
-   
-    .demo-container {
-background-color: #f00;}
+
 
 
 
